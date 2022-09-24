@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "Asda restricts discount-brand sales amid soaring inflation",
+            "description": "Asda shoppers can only buy three of each item from its Just Essentials brand, which it says is because of huge demand and is just for \"a short time.\"",
+            "url": "http://www.businessinsider.com/asda-ration-discount-just-essentials-brand-food-inflation-supermarket-grocery-2022-9",
+            "urlToImage": "https://i.insider.com/632054a389d2b3001894c9bb?width=1200&format=jpeg",
+            "publishedAt": "2022-09-13T10:34:36Z",
+            "content": "Britain's third-biggest supermarket chain is restricting how many items shoppers can buy from its discount range as inflation continues to soar.\r\nAsda introduced a new Just Essentials range in May th… [+2647 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Grace Dean",
+            "title": "Asda restricts discount-brand sales amid soaring inflation",
+            "description": "Asda shoppers can only buy three of each item from its Just Essentials brand, which it says is because of huge demand and is just for \"a short time.\"",
+            "url": "http://uk.businessinsider.com/asda-ration-discount-just-essentials-brand-food-inflation-supermarket-grocery-2022-9",
+            "urlToImage": "https://i.insider.com/632054a389d2b3001894c9bb?width=1200&format=jpeg",
+            "publishedAt": "2022-09-13T10:34:36Z",
+            "content": "Britain's third-biggest supermarket chain is restricting how many items shoppers can buy from its discount range as inflation continues to soar.\r\nAsda introduced a new Just Essentials range in May th… [+2647 chars]"
+        },
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Georg Ismar",
+            "title": "Debatte um fossile Energiequellen: Bundeskriminalamt warnt vor Gefahr linksextremer Attacken",
+            "description": "Als mögliche Aktionen der linken Szene nennt das BKA auch Sachbeschädigungen oder Brandstiftungen an Kohlekraftwerken. Konkrete Hinweise gebe es aber nicht.",
+            "url": "https://www.tagesspiegel.de/politik/debatte-um-fossile-energiequellen-bundeskriminalamt-warnt-vor-gefahr-linksextremer-attacken-8637625.html",
+            "urlToImage": "https://www.tagesspiegel.de/images/nach-dem-es-am-7-november-2020-zu-einer-demonstration-der-bewegung-querdenken-im-leipziger-zentrum-kam-zogen-ca-1000/alternates/BASE_16_9_W1400/nach-dem-es-am-7-november-2020-zu-einer-demonstration-der-bewegung-querdenken-im-leipziger-zentrum-kam-zogen-ca-1000.jpeg",
+            "publishedAt": "2022-09-13T10:17:16+00:00",
+            "content": "Das Bundeskriminalamt (BKA) warnt die deutschen Unternehmen wegen der Folge des russischen Kriegs in der Ukraine und der Debatten um eine verstärkte Nutzung von fossilen Energiequellen vor der Gefahr… [+3735 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Lucie Cutting",
+            "title": "Brandi Salmon appropriates paintings by old masters like da Vinci to include Aboriginal women",
+            "description": "Negative representations of Indigenous people by artists who are not Aboriginal have inspired Wiradjuri woman Brandi Salmon to re-imagine works by old masters including Vermeer and da Vinci.",
+            "url": "http://www.abc.net.au/news/2022-09-13/artist-appropriates-famous-paintings-to-include-aboriginal-women/101394128",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/fd7e715cc65f2914d8275796c9b6ffab?impolicy=wcms_crop_resize&cropH=358&cropW=636&xPos=0&yPos=119&width=862&height=485",
+            "publishedAt": "2022-09-13T03:42:57Z",
+            "content": "Through the appropriation of famous paintings, artist Brandi Salmon is creating positive depictions of Aboriginal people in art in her studio in the hills of Hobart.\r\nNegative representations of Abor… [+6274 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "As 3D printing merger closes, MakerBot CEO steps up and Ultimaker CEO steps down",
+            "description": "Current MakerBot CEO Nadav Goshen will be tasked with running the new brand. While Ultimaker CEO Jürgen von Hollen will be stepping away.",
+            "url": "https://techcrunch.com/2022/09/13/ultimaker-makerbot-merger/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/SDB_0001-35.jpg?w=1200",
+            "publishedAt": "2022-09-12T21:20:07Z",
+            "content": "Following this weeks closing of the Ultimaker/MakerBot merger, the combined company is announcing a new name. The entity will be known as [drumroll please] UltiMaker. As far as merged names go, its n… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ebony-Storm Halladay",
+            "title": "Here’s how to build a solid brand for your startup for free",
+            "description": "You put your blood, sweat, and tears into building an amazing product that’ll solve your customers’ problems and blow the competition away. The problem is: no one knows about it.\r\n\r\nSound ...",
+            "url": "http://thenextweb.com/news/how-to-build-brand-for-startup-free",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FUntitled-design-1.jpg&signature=bae26695e09b22e59a0e0b5e643b5b9a",
+            "publishedAt": "2022-09-12T10:24:56Z",
+            "content": "You put your blood, sweat, and tears into building an amazing product thatll solve your customers problems and blow the competition away. The problem is: no one knows about it.\r\nSound familiar?\r\nYou … [+6908 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "Brand Loyalty Revolution by Oracle Advertising and CX",
+            "description": "How technology is changing the customer relationship game",
+            "url": "https://www.newsweek.com/sponsored/brand-loyalty-revolution-oracle-advertising-cx",
+            "urlToImage": "https://d.newsweek.com/en/full/1987118/oracle-advertising-cx-sq.jpg",
+            "publishedAt": "2022-02-16T19:17:44Z",
+            "content": "Brand Loyalty Revolution\r\nIn a world of more choice and increased consumer spending, brands are using creative solutions to grab customers' attention and keep them engaged. While shoppers seek out co… [+467 chars]"
+        },
+        {
+            "source": {
+                "id": "wired-de",
+                "name": "Wired.de"
+            },
+            "author": "GQ",
+            "title": "Amazon Echo Show 10: So wird der Smart Speaker zur Videokamera",
+            "description": "Der neue Amazon Echo Show 10 kommt endlich nach Deutschland – mit einer brandneuen Funktion: Der Smart Speaker dient auch als Überwachungskamera!",
+            "url": "https://www.gq-magazin.de/auto-technik/article/amazon-echo-show-10-smart-speaker-ueberwachungskamera",
+            "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/amazon-echo-show-10-smart-speaker-videokamera-technik-aufmjpg.jpg",
+            "publishedAt": "2021-03-18T16:14:37Z",
+            "content": "\"Entwickelt, um Ihren Bewegungen zu folgen.\" Was bislang nach einem Werbespruch für Videokameras klang, ist das Haupt-Verkaufsargument für den neuen Amazon Echo Show 10. In der jüngsten Version hat d… [+3026 chars]"
+        }
+    ]
+}
