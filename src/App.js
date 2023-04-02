@@ -26,6 +26,7 @@ export class App extends Component {
     <div>
       <LoadingBar
         color='#f11946'
+        // color='blue'
         progress={this.state.progress}
         height={3}
         // onLoaderFinished={() => setProgress(0)}
